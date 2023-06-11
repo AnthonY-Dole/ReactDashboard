@@ -1,8 +1,9 @@
-![Logo](https://zupimages.net/up/23/14/fk88.png)
+![Logo](https://www.zupimages.net/viewer.php?id=23/23/u0jy.png)
 
-# React Vite ChakraUI Boilerplate
+# React Dashboard
 
-This is a boilerplate project for building React applications with Vite and ChakraUI. It includes the necessary configurations and dependencies to get started with building modern, responsive web applications quickly and efficiently.
+This is a react Dashboard
+Work in progress
 
 ## Features
 
@@ -16,13 +17,13 @@ This is a boilerplate project for building React applications with Vite and Chak
 Clone the project
 
 ```bash
-  git clone https://github.com/AnthonY-Dole/React-Vite-Boilerplate
+  git clone https://github.com/AnthonY-Dole/ReactDashbaord
 ```
 
 Go to the project directory
 
 ```bash
-  cd React-Vite-Boilerplate
+  cd ReactDashbaord
 ```
 
 Install dependencies
