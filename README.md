@@ -1,5 +1,5 @@
-![Logo]([https://www.zupimages.net/viewer.php?id=23/23/u0jy.png](https://zupimages.net/viewer.php?id=23/23/u0jy.png))
 
+![Logo](https://zupimages.net/up/23/23/u0jy.png)
 # React Dashboard
 
 This is a react Dashboard
